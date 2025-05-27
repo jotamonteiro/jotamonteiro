@@ -83,7 +83,7 @@ class CyberSecurityJourney:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jotamonteiro&repo=REPO_NAME&theme=radical)](https://github.com/jotamonteiro/projeto_luxo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jotamonteiro&repo=REPO_NAME&theme=radical)](https://github.com/jotamonteiro/projetoiate)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jotamonteiro&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </div>
